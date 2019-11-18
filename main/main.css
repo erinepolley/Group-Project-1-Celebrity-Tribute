@@ -1,0 +1,93 @@
+#background {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  background-image: url('https://www.toperfect.com/pic/Oil%20Painting%20Styles%20on%20Canvas/Simple%20and%20Cheap/Free-hand%20paintings/3-mountain-cabin-Bob-Ross-freehand-landscapes.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  opacity: 0.35;
+  z-index: -1;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+#quote {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  font-style: italic;
+  color: blue;
+}
+
+h3 {
+  text-transform: uppercase;
+}
+
+.name {
+  display: flex;
+  justify-content: center;
+}
+/* nav bar */
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #f3f3f3 ;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .active {
+    background-color: skyblue;
+    color: white;
+  }
+  
+  /* Logo  */
+  .navbar {
+    margin: 1% 0;
+    float: left;
+  
+  }
+  .navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+  }
+  
+  .nav-container {
+    padding-top: 1%;
+  }
+
+  .img-responsive2{
+    height: 100%;
+    width: 25%;
+  
+    }
