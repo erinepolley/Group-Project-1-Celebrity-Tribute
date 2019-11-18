@@ -1,5 +1,6 @@
-#Celebrity Tribute: Bob Ross
+# Celebrity Tribute: Bob Ross
 This was my first group project at NSS. Michelle, Julian, Joseph, and I created a tribute website to Bob Ross using only HTML and CSS. Directions for the site are below. 
+#
 #
 # Nashville Software School Tribute Agency
 
