@@ -1,7 +1,8 @@
 # Celebrity Tribute: Bob Ross
 This was my first group project at NSS. Michelle, Julian, Joseph, and I created a tribute website to Bob Ross using only HTML and CSS. Directions for the site are below. 
 ## Instructions for Viewing this Application:
-
+1. Clone down the repo: `git@github.com:erinepolley/Group-Project-1-Celebrity-Tribute.git`
+2. Run the server in the terminal: hs -o 
 #
 # Nashville Software School Tribute Agency
 
